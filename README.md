@@ -3,7 +3,7 @@
 
 Solutions for "Cracking the Coding interview Edition 5"
 
-Chapter 01 -  Arrays and String
+## Chapter 01 -  Arrays and String
 
 1.1 Implement an algorithm to determine if a string has all unique characters. What if
 you cannot use additional data structures
