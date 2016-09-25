@@ -31,6 +31,11 @@ bytes, write a method to rotate the image by 90 degrees. Can you do this in plac
 1.7 Write an algorithm such that if an element in an MxN matrix is 0, its entire row and
 column are set to 0.
 
+1.8 Assume you have a method isSubstring which checks if one word is a substring
+of another. Given two strings, si and s2, write code to check Ifs2 is a rotation of si
+using only onecalltoisSubstring (e.g., "waterbottLe" is a rotation of "erbot-
+tLewat").
+
 
 
 
