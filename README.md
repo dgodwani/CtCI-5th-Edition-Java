@@ -36,6 +36,24 @@ of another. Given two strings, si and s2, write code to check Ifs2 is a rotation
 using only onecalltoisSubstring (e.g., "waterbottLe" is a rotation of "erbot-
 tLewat").
 
+### Chapter 02 -  Linked Lists
+
+2.1 Write code to remove duplicates from an unsorted linked list.
+FOLLOW UP
+How would you solve this problem if a temporary buffer is not allowed?
+
+2.2 Implement an algorithm to find the kth to last element of a singly linked list.
+
+2.3 Implement an algorithm to delete a node in the middle of a singly linked list, given
+only access to that node.
+
+2.4 Write code to partition a linked list around a value x, such that all nodes less than x
+come before alt nodes greater than or equal to x.
+
+
+
+
+
 
 
 
